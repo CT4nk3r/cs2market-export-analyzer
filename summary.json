@@ -1,0 +1,1570 @@
+{
+  "total_spent": 169.84,
+  "total_earned": 121.53,
+  "net_flow": -48.31,
+  "purchase_count": 430,
+  "sale_count": 213,
+  "most_purchased_item": "Paris 2023 Legends Autograph Capsule",
+  "highest_transaction": {
+    "market_name": "StatTrak\u2122 M4A4 | Evil Daimyo (Factory New)",
+    "price_eur": 11.77,
+    "type": "purchase"
+  },
+  "item_details": [
+    {
+      "Market Name": "AK-47 | Blue Laminate (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 2.3,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "AK-47 | Elite Build (Well-Worn)",
+      "transaction_count": 2,
+      "total_eur": 1.12,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "AK-47 | Predator (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.27,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "AK-47 | Safari Mesh (Field-Tested)",
+      "transaction_count": 3,
+      "total_eur": 0.4,
+      "type_breakdown": {
+        "sale": 2,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "AUG | Storm (Battle-Scarred)",
+      "transaction_count": 6,
+      "total_eur": 0.24,
+      "type_breakdown": {
+        "purchase": 6
+      }
+    },
+    {
+      "Market Name": "AUG | Storm (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.01,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "AWP | Safari Mesh (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 0.19,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "CS:GO Weapon Case 2",
+      "transaction_count": 6,
+      "total_eur": 3.69,
+      "type_breakdown": {
+        "sale": 3,
+        "purchase": 3
+      }
+    },
+    {
+      "Market Name": "CS:GO Weapon Case 3",
+      "transaction_count": 6,
+      "total_eur": 0.54,
+      "type_breakdown": {
+        "sale": 3,
+        "purchase": 3
+      }
+    },
+    {
+      "Market Name": "CZ75-Auto | Pole Position (Minimal Wear)",
+      "transaction_count": 2,
+      "total_eur": 0.56,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "CZ75-Auto | Tigris (Battle-Scarred)",
+      "transaction_count": 2,
+      "total_eur": 0.66,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Charm | Lil' SAS",
+      "transaction_count": 1,
+      "total_eur": 0.8,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Charm | Lil' Teacup",
+      "transaction_count": 1,
+      "total_eur": 1.96,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Chroma 2 Case",
+      "transaction_count": 1,
+      "total_eur": 0.27,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Chroma 3 Case",
+      "transaction_count": 3,
+      "total_eur": 0.31,
+      "type_breakdown": {
+        "sale": 3
+      }
+    },
+    {
+      "Market Name": "Chroma Case",
+      "transaction_count": 7,
+      "total_eur": 2.68,
+      "type_breakdown": {
+        "purchase": 5,
+        "sale": 2
+      }
+    },
+    {
+      "Market Name": "Danger Zone Case",
+      "transaction_count": 1,
+      "total_eur": 0.36,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Desert Eagle | Calligraffiti (Minimal Wear)",
+      "transaction_count": 1,
+      "total_eur": 0.41,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Desert Eagle | Conspiracy (Factory New)",
+      "transaction_count": 1,
+      "total_eur": 2.1,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Desert Eagle | Meteorite (Factory New)",
+      "transaction_count": 1,
+      "total_eur": 0.28,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Desert Eagle | Mudder (Minimal Wear)",
+      "transaction_count": 2,
+      "total_eur": 0.18,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Desert Eagle | Naga (Minimal Wear)",
+      "transaction_count": 2,
+      "total_eur": 1.02,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Dreams & Nightmares Case",
+      "transaction_count": 1,
+      "total_eur": 1.57,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Dual Berettas | Cobalt Quartz (Factory New)",
+      "transaction_count": 2,
+      "total_eur": 0.34,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Dual Berettas | Cobalt Quartz (Minimal Wear)",
+      "transaction_count": 21,
+      "total_eur": 3.47,
+      "type_breakdown": {
+        "sale": 11,
+        "purchase": 10
+      }
+    },
+    {
+      "Market Name": "Dual Berettas | Contractor (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 0.06,
+      "type_breakdown": {
+        "purchase": 2
+      }
+    },
+    {
+      "Market Name": "Dual Berettas | Royal Consorts (Battle-Scarred)",
+      "transaction_count": 1,
+      "total_eur": 0.23,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Dual Berettas | Royal Consorts (Field-Tested)",
+      "transaction_count": 20,
+      "total_eur": 4.8,
+      "type_breakdown": {
+        "purchase": 20
+      }
+    },
+    {
+      "Market Name": "Dual Berettas | Royal Consorts (Well-Worn)",
+      "transaction_count": 7,
+      "total_eur": 1.66,
+      "type_breakdown": {
+        "purchase": 7
+      }
+    },
+    {
+      "Market Name": "Enforcer | Phoenix",
+      "transaction_count": 1,
+      "total_eur": 4.68,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "FAMAS | Cyanospatter (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.03,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "FAMAS | Djinn (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.88,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "FAMAS | Survivor Z (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.12,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Falchion Case",
+      "transaction_count": 4,
+      "total_eur": 0.16,
+      "type_breakdown": {
+        "purchase": 4
+      }
+    },
+    {
+      "Market Name": "Fever Case",
+      "transaction_count": 16,
+      "total_eur": 19.62,
+      "type_breakdown": {
+        "sale": 16
+      }
+    },
+    {
+      "Market Name": "Five-SeveN | Jungle (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 0.32,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Five-SeveN | Monkey Business (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.96,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Five-SeveN | Orange Peel (Battle-Scarred)",
+      "transaction_count": 2,
+      "total_eur": 0.09,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Five-SeveN | Orange Peel (Well-Worn)",
+      "transaction_count": 1,
+      "total_eur": 0.08,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "G3SG1 | Desert Storm (Minimal Wear)",
+      "transaction_count": 2,
+      "total_eur": 0.04,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "G3SG1 | Polar Camo (Field-Tested)",
+      "transaction_count": 3,
+      "total_eur": 0.12,
+      "type_breakdown": {
+        "purchase": 3
+      }
+    },
+    {
+      "Market Name": "G3SG1 | Polar Camo (Well-Worn)",
+      "transaction_count": 2,
+      "total_eur": 0.08,
+      "type_breakdown": {
+        "purchase": 2
+      }
+    },
+    {
+      "Market Name": "G3SG1 | Stinger (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.21,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Galil AR | Crimson Tsunami (Factory New)",
+      "transaction_count": 1,
+      "total_eur": 3.97,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Galil AR | Kami (Battle-Scarred)",
+      "transaction_count": 1,
+      "total_eur": 0.09,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Galil AR | Rocket Pop (Well-Worn)",
+      "transaction_count": 1,
+      "total_eur": 0.08,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Gallery Case",
+      "transaction_count": 3,
+      "total_eur": 2.64,
+      "type_breakdown": {
+        "purchase": 3
+      }
+    },
+    {
+      "Market Name": "Gamma 2 Case",
+      "transaction_count": 4,
+      "total_eur": 1.25,
+      "type_breakdown": {
+        "sale": 4
+      }
+    },
+    {
+      "Market Name": "Gamma Case",
+      "transaction_count": 2,
+      "total_eur": 0.5,
+      "type_breakdown": {
+        "sale": 2
+      }
+    },
+    {
+      "Market Name": "Glock-18 | Grinder (Factory New)",
+      "transaction_count": 2,
+      "total_eur": 1.21,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Glock-18 | Groundwater (Field-Tested)",
+      "transaction_count": 4,
+      "total_eur": 0.42,
+      "type_breakdown": {
+        "sale": 2,
+        "purchase": 2
+      }
+    },
+    {
+      "Market Name": "Glock-18 | Night (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.07,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Glock-18 | Water Elemental (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 2.59,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Glove Case",
+      "transaction_count": 5,
+      "total_eur": 6.64,
+      "type_breakdown": {
+        "sale": 5
+      }
+    },
+    {
+      "Market Name": "Huntsman Case Key",
+      "transaction_count": 2,
+      "total_eur": 4.72,
+      "type_breakdown": {
+        "purchase": 2
+      }
+    },
+    {
+      "Market Name": "Huntsman Weapon Case",
+      "transaction_count": 6,
+      "total_eur": 1.9,
+      "type_breakdown": {
+        "sale": 4,
+        "purchase": 2
+      }
+    },
+    {
+      "Market Name": "Kilowatt Case",
+      "transaction_count": 1,
+      "total_eur": 0.69,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Krakow 2017 Challengers Autograph Capsule",
+      "transaction_count": 2,
+      "total_eur": 1.54,
+      "type_breakdown": {
+        "purchase": 2
+      }
+    },
+    {
+      "Market Name": "Krakow 2017 Legends Autograph Capsule",
+      "transaction_count": 4,
+      "total_eur": 1.0,
+      "type_breakdown": {
+        "purchase": 4
+      }
+    },
+    {
+      "Market Name": "M249 | Gator Mesh (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.01,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "M249 | Gator Mesh (Minimal Wear)",
+      "transaction_count": 1,
+      "total_eur": 0.1,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "M249 | System Lock (Factory New)",
+      "transaction_count": 1,
+      "total_eur": 0.18,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "M4A1-S | Atomic Alloy (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 2.02,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "M4A1-S | Mud-Spec (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.4,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "M4A1-S | VariCamo (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 0.23,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "M4A4 | Evil Daimyo (Minimal Wear)",
+      "transaction_count": 2,
+      "total_eur": 3.44,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "M4A4 | Jungle Tiger (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.08,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "M4A4 | Modern Hunter (Well-Worn)",
+      "transaction_count": 1,
+      "total_eur": 1.68,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "M4A4 | Urban DDPAT (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.07,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "MAC-10 | Rangeen (Minimal Wear)",
+      "transaction_count": 6,
+      "total_eur": 3.81,
+      "type_breakdown": {
+        "purchase": 6
+      }
+    },
+    {
+      "Market Name": "MAG-7 | Heat (Field-Tested)",
+      "transaction_count": 10,
+      "total_eur": 2.39,
+      "type_breakdown": {
+        "purchase": 10
+      }
+    },
+    {
+      "Market Name": "MP7 | Urban Hazard (Factory New)",
+      "transaction_count": 1,
+      "total_eur": 0.12,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "MP9 | Airlock (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 1.16,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "MP9 | Deadly Poison (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 0.14,
+      "type_breakdown": {
+        "sale": 2
+      }
+    },
+    {
+      "Market Name": "MP9 | Deadly Poison (Minimal Wear)",
+      "transaction_count": 1,
+      "total_eur": 0.13,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "MP9 | Multi-Terrain (Factory New)",
+      "transaction_count": 1,
+      "total_eur": 0.09,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Nova | Candy Apple (Minimal Wear)",
+      "transaction_count": 1,
+      "total_eur": 0.06,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Nova | Mandrel (Field-Tested)",
+      "transaction_count": 5,
+      "total_eur": 0.15,
+      "type_breakdown": {
+        "purchase": 5
+      }
+    },
+    {
+      "Market Name": "Nova | Predator (Battle-Scarred)",
+      "transaction_count": 1,
+      "total_eur": 0.01,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Operation Breakout Weapon Case",
+      "transaction_count": 2,
+      "total_eur": 0.1,
+      "type_breakdown": {
+        "sale": 2
+      }
+    },
+    {
+      "Market Name": "Operation Payback Pass",
+      "transaction_count": 1,
+      "total_eur": 2.32,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Operation Phoenix Weapon Case",
+      "transaction_count": 4,
+      "total_eur": 0.48,
+      "type_breakdown": {
+        "sale": 4
+      }
+    },
+    {
+      "Market Name": "Operation Vanguard Weapon Case",
+      "transaction_count": 9,
+      "total_eur": 0.23,
+      "type_breakdown": {
+        "sale": 9
+      }
+    },
+    {
+      "Market Name": "P2000 | Amber Fade (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 1.03,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "P2000 | Amber Fade (Minimal Wear)",
+      "transaction_count": 2,
+      "total_eur": 0.94,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "P250 | Franklin (Minimal Wear)",
+      "transaction_count": 2,
+      "total_eur": 1.15,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "P250 | Metallic DDPAT (Factory New)",
+      "transaction_count": 2,
+      "total_eur": 0.1,
+      "type_breakdown": {
+        "sale": 2
+      }
+    },
+    {
+      "Market Name": "P250 | Sand Dune (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.01,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "P250 | Sand Dune (Minimal Wear)",
+      "transaction_count": 1,
+      "total_eur": 0.02,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "P250 | Supernova (Field-Tested)",
+      "transaction_count": 24,
+      "total_eur": 7.42,
+      "type_breakdown": {
+        "purchase": 22,
+        "sale": 2
+      }
+    },
+    {
+      "Market Name": "P90 | Elite Build (Battle-Scarred)",
+      "transaction_count": 1,
+      "total_eur": 0.07,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "P90 | Grim (Battle-Scarred)",
+      "transaction_count": 1,
+      "total_eur": 0.09,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "P90 | Sand Spray (Battle-Scarred)",
+      "transaction_count": 1,
+      "total_eur": 0.04,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "P90 | Sand Spray (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.01,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "P90 | Shallow Grave (Field-Tested)",
+      "transaction_count": 3,
+      "total_eur": 4.0,
+      "type_breakdown": {
+        "sale": 3
+      }
+    },
+    {
+      "Market Name": "PP-Bizon | Blue Streak (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 0.69,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "PP-Bizon | Brass (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 0.17,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "PP-Bizon | Irradiated Alert (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 0.19,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "PP-Bizon | Jungle Slipstream (Factory New)",
+      "transaction_count": 4,
+      "total_eur": 2.19,
+      "type_breakdown": {
+        "purchase": 4
+      }
+    },
+    {
+      "Market Name": "PP-Bizon | Night Ops (Field-Tested)",
+      "transaction_count": 10,
+      "total_eur": 0.4,
+      "type_breakdown": {
+        "purchase": 10
+      }
+    },
+    {
+      "Market Name": "PP-Bizon | Sand Dashed (Field-Tested)",
+      "transaction_count": 6,
+      "total_eur": 0.24,
+      "type_breakdown": {
+        "purchase": 6
+      }
+    },
+    {
+      "Market Name": "PP-Bizon | Urban Dashed (Battle-Scarred)",
+      "transaction_count": 2,
+      "total_eur": 0.08,
+      "type_breakdown": {
+        "purchase": 2
+      }
+    },
+    {
+      "Market Name": "Paris 2023 Challengers Autograph Capsule",
+      "transaction_count": 14,
+      "total_eur": 1.82,
+      "type_breakdown": {
+        "purchase": 14
+      }
+    },
+    {
+      "Market Name": "Paris 2023 Legends Autograph Capsule",
+      "transaction_count": 84,
+      "total_eur": 12.6,
+      "type_breakdown": {
+        "purchase": 84
+      }
+    },
+    {
+      "Market Name": "Paris 2023 Legends Sticker Capsule",
+      "transaction_count": 55,
+      "total_eur": 5.5,
+      "type_breakdown": {
+        "purchase": 55
+      }
+    },
+    {
+      "Market Name": "R8 Revolver | Amber Fade (Factory New)",
+      "transaction_count": 2,
+      "total_eur": 0.92,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Recoil Case",
+      "transaction_count": 3,
+      "total_eur": 0.63,
+      "type_breakdown": {
+        "sale": 3
+      }
+    },
+    {
+      "Market Name": "SCAR-20 | Carbon Fiber (Factory New)",
+      "transaction_count": 1,
+      "total_eur": 0.03,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "SCAR-20 | Contractor (Well-Worn)",
+      "transaction_count": 7,
+      "total_eur": 0.21,
+      "type_breakdown": {
+        "purchase": 7
+      }
+    },
+    {
+      "Market Name": "SCAR-20 | Powercore (Field-Tested)",
+      "transaction_count": 5,
+      "total_eur": 1.17,
+      "type_breakdown": {
+        "purchase": 5
+      }
+    },
+    {
+      "Market Name": "SCAR-20 | Sand Mesh (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.03,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "SG 553 | Triarch (Field-Tested)",
+      "transaction_count": 14,
+      "total_eur": 3.28,
+      "type_breakdown": {
+        "purchase": 14
+      }
+    },
+    {
+      "Market Name": "SG 553 | Triarch (Well-Worn)",
+      "transaction_count": 2,
+      "total_eur": 0.46,
+      "type_breakdown": {
+        "purchase": 2
+      }
+    },
+    {
+      "Market Name": "SSG 08 | Acid Fade (Factory New)",
+      "transaction_count": 1,
+      "total_eur": 0.3,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "SSG 08 | Blue Spruce (Battle-Scarred)",
+      "transaction_count": 1,
+      "total_eur": 0.01,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "SSG 08 | Blue Spruce (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.03,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "SSG 08 | Ghost Crusader (Battle-Scarred)",
+      "transaction_count": 1,
+      "total_eur": 0.22,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "SSG 08 | Lichen Dashed (Well-Worn)",
+      "transaction_count": 1,
+      "total_eur": 0.04,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "SSG 08 | Slashed (Well-Worn)",
+      "transaction_count": 1,
+      "total_eur": 0.18,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sawed-Off | Fubar (Battle-Scarred)",
+      "transaction_count": 10,
+      "total_eur": 0.9,
+      "type_breakdown": {
+        "purchase": 10
+      }
+    },
+    {
+      "Market Name": "Sealed Graffiti | Piggles (Princess Pink)",
+      "transaction_count": 1,
+      "total_eur": 0.02,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Shattered Web Case",
+      "transaction_count": 3,
+      "total_eur": 15.86,
+      "type_breakdown": {
+        "purchase": 3
+      }
+    },
+    {
+      "Market Name": "Spectrum 2 Case",
+      "transaction_count": 1,
+      "total_eur": 0.27,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Spectrum Case",
+      "transaction_count": 3,
+      "total_eur": 0.62,
+      "type_breakdown": {
+        "sale": 2,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 AK-47 | Elite Build (Minimal Wear)",
+      "transaction_count": 3,
+      "total_eur": 14.04,
+      "type_breakdown": {
+        "sale": 2,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 AK-47 | Uncharted (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 3.79,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 AWP | Worm God (Minimal Wear)",
+      "transaction_count": 1,
+      "total_eur": 4.69,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 Desert Eagle | Bronze Deco (Factory New)",
+      "transaction_count": 2,
+      "total_eur": 2.3,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 Desert Eagle | Bronze Deco (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 0.92,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 Desert Eagle | Directive (Well-Worn)",
+      "transaction_count": 2,
+      "total_eur": 2.88,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 Dual Berettas | Flora Carnivora (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.99,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 Galil AR | Rocket Pop (Minimal Wear)",
+      "transaction_count": 1,
+      "total_eur": 0.7,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 Galil AR | Sandstorm (Battle-Scarred)",
+      "transaction_count": 2,
+      "total_eur": 0.39,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 Glock-18 | Off World (Well-Worn)",
+      "transaction_count": 1,
+      "total_eur": 0.65,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 Glock-18 | Steel Disruption (Factory New)",
+      "transaction_count": 1,
+      "total_eur": 3.62,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 Glock-18 | Weasel (Minimal Wear)",
+      "transaction_count": 2,
+      "total_eur": 10.23,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 Glock-18 | Winterized (Well-Worn)",
+      "transaction_count": 1,
+      "total_eur": 0.38,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 M249 | System Lock (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.16,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 M4A1-S | Emphorosaur-S (Battle-Scarred)",
+      "transaction_count": 1,
+      "total_eur": 2.71,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 M4A4 | Evil Daimyo (Factory New)",
+      "transaction_count": 1,
+      "total_eur": 11.77,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 M4A4 | Poly Mag (Well-Worn)",
+      "transaction_count": 1,
+      "total_eur": 0.26,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 MAC-10 | Sakkaku (Battle-Scarred)",
+      "transaction_count": 1,
+      "total_eur": 0.87,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 MP7 | Special Delivery (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.99,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 MP9 | Black Sand (Well-Worn)",
+      "transaction_count": 1,
+      "total_eur": 0.16,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 Music Kit | Denzel Curry, ULTIMATE",
+      "transaction_count": 1,
+      "total_eur": 8.1,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 P2000 | Ivory (Well-Worn)",
+      "transaction_count": 2,
+      "total_eur": 0.33,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 P250 | Supernova (Factory New)",
+      "transaction_count": 2,
+      "total_eur": 5.15,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 PP-Bizon | Space Cat (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.58,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 R8 Revolver | Crimson Web (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.39,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 UMP-45 | Riot (Battle-Scarred)",
+      "transaction_count": 1,
+      "total_eur": 0.19,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 USP-S | 27 (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 1.55,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "StatTrak\u2122 USP-S | Guardian (Minimal Wear)",
+      "transaction_count": 1,
+      "total_eur": 3.4,
+      "type_breakdown": {
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Sticker Capsule",
+      "transaction_count": 1,
+      "total_eur": 0.23,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker Capsule 2",
+      "transaction_count": 6,
+      "total_eur": 6.8,
+      "type_breakdown": {
+        "sale": 6
+      }
+    },
+    {
+      "Market Name": "Sticker | 9INE | Paris 2023",
+      "transaction_count": 2,
+      "total_eur": 0.06,
+      "type_breakdown": {
+        "purchase": 2
+      }
+    },
+    {
+      "Market Name": "Sticker | AdreN | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.22,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | Bolt Charge",
+      "transaction_count": 1,
+      "total_eur": 0.66,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | Hypnoteyes (Holo)",
+      "transaction_count": 1,
+      "total_eur": 0.63,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | MSL | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.04,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | Perry (Holo)",
+      "transaction_count": 1,
+      "total_eur": 2.86,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | Rainbow Route (Holo)",
+      "transaction_count": 1,
+      "total_eur": 0.76,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | WorldEdit (Foil) | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.2,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | WorldEdit | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.08,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | boltz (Foil) | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.24,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | boltz (Gold) | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 6.09,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | chopper (Foil) | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.19,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | device | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.11,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | flamie (Gold) | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 5.49,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | forZe eSports | Paris 2023",
+      "transaction_count": 4,
+      "total_eur": 0.12,
+      "type_breakdown": {
+        "purchase": 4
+      }
+    },
+    {
+      "Market Name": "Sticker | hutji (Foil) | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.18,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | kRYSTAL (Foil) | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.22,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | loWel (Foil) | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.13,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | shroud | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.24,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Sticker | steel | Krakow 2017",
+      "transaction_count": 1,
+      "total_eur": 0.11,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Tec-9 | Fuel Injector (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 2.09,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Tec-9 | Groundwater (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.01,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Tec-9 | Isaac (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 0.41,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Tec-9 | Red Quartz (Factory New)",
+      "transaction_count": 2,
+      "total_eur": 0.38,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Tec-9 | Red Quartz (Field-Tested)",
+      "transaction_count": 22,
+      "total_eur": 3.9,
+      "type_breakdown": {
+        "sale": 11,
+        "purchase": 11
+      }
+    },
+    {
+      "Market Name": "Tec-9 | VariCamo (Factory New)",
+      "transaction_count": 2,
+      "total_eur": 0.25,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "Tec-9 | VariCamo (Field-Tested)",
+      "transaction_count": 1,
+      "total_eur": 0.06,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "UMP-45 | Scorched (Field-Tested)",
+      "transaction_count": 10,
+      "total_eur": 0.3,
+      "type_breakdown": {
+        "purchase": 10
+      }
+    },
+    {
+      "Market Name": "UMP-45 | Urban DDPAT (Minimal Wear)",
+      "transaction_count": 1,
+      "total_eur": 0.01,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "USP-S | Guardian (Field-Tested)",
+      "transaction_count": 2,
+      "total_eur": 0.88,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "USP-S | Night Ops (Minimal Wear)",
+      "transaction_count": 1,
+      "total_eur": 0.16,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "Winter Offensive Weapon Case",
+      "transaction_count": 3,
+      "total_eur": 2.28,
+      "type_breakdown": {
+        "sale": 3
+      }
+    },
+    {
+      "Market Name": "XM1014 | CaliCamo (Minimal Wear)",
+      "transaction_count": 1,
+      "total_eur": 0.09,
+      "type_breakdown": {
+        "sale": 1
+      }
+    },
+    {
+      "Market Name": "XM1014 | Grassland (Well-Worn)",
+      "transaction_count": 2,
+      "total_eur": 0.1,
+      "type_breakdown": {
+        "sale": 1,
+        "purchase": 1
+      }
+    },
+    {
+      "Market Name": "eSports 2013 Winter Case",
+      "transaction_count": 1,
+      "total_eur": 0.08,
+      "type_breakdown": {
+        "sale": 1
+      }
+    }
+  ]
+}
