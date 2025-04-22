@@ -38,11 +38,13 @@ jobs:
         if: ${{ !cancelled() }}
         with:
           name: output
-          path: output/
+          path: output
           retention-days: 30
       
-      - name: Push the new files to github pages
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: /output
+          publish_branch: gh-pages
+          publish_dir: ./output
+  
