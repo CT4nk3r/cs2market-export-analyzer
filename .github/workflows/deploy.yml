@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 permissions:
-  id-token: write
-  pages: write
+  id-token: write # This is needed for deploying to GitHub Pages
+  pages: write      # This is needed for deploying to GitHub Pages
 
 jobs:
   build-and-deploy:
@@ -31,7 +31,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: ./
+          path: output/ 
 
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
