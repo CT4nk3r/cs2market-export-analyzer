@@ -269,10 +269,10 @@ html_content = """<!DOCTYPE html>
     async function loadData() {
       try {
         const [summary, barData, lineData, pieData] = await Promise.all([
-          fetch("output/summary.json").then(res => res.json()),
-          fetch("output/bar_data.json").then(res => res.json()),
-          fetch("output/line_data.json").then(res => res.json()),
-          fetch("output/pie_data.json").then(res => res.json())
+          fetch("summary.json").then(res => res.json()),
+          fetch("bar_data.json").then(res => res.json()),
+          fetch("line_data.json").then(res => res.json()),
+          fetch("pie_data.json").then(res => res.json())
         ]);
 
         // Hide loading and show content
