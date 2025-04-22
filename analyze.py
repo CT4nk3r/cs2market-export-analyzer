@@ -429,7 +429,7 @@ html_content = """<!DOCTYPE html>
 </body>
 </html>
 """
-with open("index.html", "w", encoding="utf-8") as f:
+with open("output/index.html", "w", encoding="utf-8") as f:
     f.write(html_content)
 
 print("Analysis complete. Results saved to output/ directory. index.html generated.")
