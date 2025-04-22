@@ -27,11 +27,21 @@ jobs:
       - name: Run analyze.py
         run: python analyze.py
 
-      - name: Create or update gh-pages branch
-        run: |
-          git checkout --orphan gh-pages
-          git rm -rf .
-          cp -r output/. .
-          git add .
-          git commit -m "Deploy website"
-          git push origin --force gh-pages
+      - name: List output directory contents
+        run: ls -al output/
+        
+      - name: Check output directory size
+        run: du -sh output/
+      
+      - uses: actions/upload-artifact@v4
+        if: ${{ !cancelled() }}
+        with:
+          name: output
+          path: output/
+          retention-days: 30
+      
+      - name: Push the new files to github pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
