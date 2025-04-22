@@ -33,12 +33,13 @@ jobs:
           name: github-pages
           path: output/ 
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        with:
+          enablement: true
+          
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
         with:
           artifact_name: github-pages.zip
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-        with:
-          enablement: true
