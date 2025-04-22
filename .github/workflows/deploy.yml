@@ -27,24 +27,11 @@ jobs:
       - name: Run analyze.py
         run: python analyze.py
 
-      - name: List output directory contents
-        run: ls -al output/
-        
-      - name: Check output directory size
-        run: du -sh output/
-      
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-pages
-          path: output/
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-        with:
-          enablement: true
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
-        with:
-          artifact_name: github-pages
+      - name: Create or update gh-pages branch
+        run: |
+          git checkout --orphan gh-pages
+          git rm -rf .
+          cp -r output/. .
+          git add .
+          git commit -m "Deploy website"
+          git push origin --force gh-pages
