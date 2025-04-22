@@ -27,6 +27,12 @@ jobs:
       - name: Run analyze.py
         run: python analyze.py
 
+      - name: List output directory contents
+        run: ls -al output/
+        
+      - name: Check output directory size
+        run: du -sh output/
+      
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
