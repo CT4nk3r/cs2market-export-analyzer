@@ -1,13 +1,13 @@
 [
   {
     "Category": "Capsules",
-    "spent": 22.46,
-    "earned": 7.03
+    "spent": 19.92,
+    "earned": 0.0
   },
   {
     "Category": "Cases",
-    "spent": 27.78,
-    "earned": 40.31
+    "spent": 18.5,
+    "earned": 21.82
   },
   {
     "Category": "Charms",
@@ -17,11 +17,11 @@
   {
     "Category": "Stickers",
     "spent": 0.18,
-    "earned": 18.45
+    "earned": 2.05
   },
   {
     "Category": "Weapons",
-    "spent": 116.66,
-    "earned": 55.74
+    "spent": 28.24,
+    "earned": 4.06
   }
 ]
